@@ -1,4 +1,5 @@
 
+
 👋 Hi, I’m Rishichetan!
 
 📊 Aspiring Data Analyst | SQL & Python
@@ -6,3 +7,10 @@
 🐍 Learning Python, Pandas & data cleaning
 📈 Interested in turning data into meaningful insights
 
+🌐 Socials:
+Instagram email
+
+💻 Tech Stack:
+MySQL Java Python NumPy Pandas
+
+📊 GitHub Stats:
